@@ -74,9 +74,9 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shreyashbidwai-21489b321">LinkedIn</a> •
-  <a href="mailto:shreyashbidwai1234@gmail.com">Email</a> •
-  <a href="https://shadowmask86.github.io/basic-portfolio/">Portfolio</a>
+  <a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shreyashbidwai1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://shadowmask86.github.io/basic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Open to Frontend, MERN Stack, and Web Developer internship/fresher opportunities</i></p>
