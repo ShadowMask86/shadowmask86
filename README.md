@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shreyashbidwai1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://shadowmask86.github.io/basicportfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://shadowmask86.github.io/basic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -51,13 +51,15 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🗂️ [MERN Task Manager](https://github.com/shadowmask86) | Full-stack task manager with JWT auth, REST API, and MongoDB Atlas | React, Node, Express, MongoDB |
-| 🌐 [Personal Developer Portfolio](https://shadowmask86.github.io/basicportfolio) | Responsive portfolio site with SEO optimization and 40% faster load time | HTML5, CSS3, JS, Bootstrap 5 |
-| 🧩 Reusable UI Component Library | DRY, documented component set built for speed and consistency | HTML5, CSS3, Bootstrap 5, JS |
-| 🎨 HTML/CSS Project Collection | 9+ layouts — Blog Card, Timeline, Recipe Page, Newsletter, and more | HTML5, CSS3, Flexbox/Grid |
-| 🐾 TinDog (Bootstrap Clone) | Mobile-first product landing page clone | HTML5, CSS3, Bootstrap 5 |
+| Project | Description | Tech | Live Demo |
+|---|---|---|---|
+| 🐾 [TinDog Website](https://github.com/shadowmask86/tindog-website) | Mobile-first Bootstrap product landing page clone | HTML5, CSS3, Bootstrap 5 | [Live](https://shadowmask86.github.io/tindog-website/) |
+| 🌐 [Personal Developer Portfolio](https://github.com/shadowmask86/basic-portfolio) | Responsive portfolio site with clean layout and fast load time | HTML5, CSS3, JS | [Live](https://shadowmask86.github.io/basic-portfolio/) |
+| 🍳 [Recipe Web Page](https://github.com/shadowmask86/Recipe-Web-Page) | Responsive recipe page with elegant typography and card design | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Recipe-Web-Page/) |
+| 📰 [Newsletter Subscription](https://github.com/shadowmask86/Newsletter-Subscription) | Responsive newsletter signup page | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Newsletter-Subscription/) |
+| ✍️ [Blog Post Card](https://github.com/shadowmask86/Blog-Post-Card) | Responsive blog post card component | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Blog-Post-Card/) |
+| 📜 [Poem Page](https://github.com/shadowmask86/Poem-Page) | Responsive poem page with elegant typography and reading-friendly layout | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Poem-Page/) |
+| 🔗 [Links Page](https://github.com/shadowmask86/Links-Page) | Personal links landing page | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Links-Page/) |
 
 ---
 
@@ -88,7 +90,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/shreyashbidwai-21489b321">LinkedIn</a> •
   <a href="mailto:shreyashbidwai1234@gmail.com">Email</a> •
-  <a href="https://shadowmask86.github.io/basicportfolio">Portfolio</a>
+  <a href="https://shadowmask86.github.io/basic-portfolio/">Portfolio</a>
 </p>
 
 <p align="center"><i>Open to Frontend, MERN Stack, and Web Developer internship/fresher opportunities</i></p>
