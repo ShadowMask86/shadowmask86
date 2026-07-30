@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shreyash Bidwai 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) in Training | BCA Graduate | OCI GenAI Certified</h3>
+<h3 align="center">Full-Stack Developer (MERN) in Training | BCA Graduate | MCA Incoming | OCI GenAI Certified</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,11 +12,12 @@
 ### 🚀 About Me
 
 - 🎓 BCA (Computer Science) graduate, SRTMU Nanded — CGPA 7.83
-- 💼 Completed a software development internship at **CodeAlpha**, shipping real deployed interfaces
-- 💻 Built and deployed **7 responsive web projects** on GitHub Pages using HTML5, CSS3, and Bootstrap 5
+- 📚 Incoming MCA student — scored **98.80 percentile** in MH-CET (Top 1.2%)
+- 💻 Building real projects while mastering the **MERN stack** (MongoDB, Express, React, Node.js)
 - ☁️ Certified in **Oracle Cloud Infrastructure Generative AI** (LLMs, RAG, Prompt Engineering)
 - 🌱 Currently learning: **Node.js, React.js**, moving into **MongoDB, JWT Auth, Next.js, TypeScript**
 - 🎯 Actively seeking Frontend / MERN Stack / Web Developer internship or fresher role
+- ⚡ Fun fact: I build browser RPGs on the side (Phaser 3 + Socket.IO + MongoDB) alongside coursework
 
 ---
 
@@ -65,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowmask86&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmask86&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowmask86&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=shadowmask86&theme=radical" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmask86&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmask86&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
