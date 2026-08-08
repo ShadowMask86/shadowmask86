@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Shreyash%20Bidwai&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)%20%7C%20BCA%20Graduate%20%7C%20OCI%20GenAI%20Certified&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Shreyash%20Bidwai&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)%20%7C%20BCA%20Graduate%20%7C%20OCI%20GenAI%20Certified&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+clean%2C+responsive+web+experiences;Learning+MERN+%7C+React+%7C+Node.js+%7C+MongoDB;OCI+GenAI+Certified+%7C+Prompt+Engineering+%2B+RAG;Open+to+Frontend+%2F+MERN+%2F+Fresher+roles+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+clean%2C+responsive+web+experiences;Learning+React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;OCI+GenAI+Certified+%7C+Prompt+Engineering+%2B+RAG;Open+to+Frontend+%2F+MERN+%2F+Fresher+roles+%F0%9F%9A%80" />
 
 <br/>
 
@@ -39,7 +39,9 @@ location: "Pune, Maharashtra, India 📍"
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,50:00C9A7,100:0077B5&height=4&width=1000" width="100%">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +64,9 @@ location: "Pune, Maharashtra, India 📍"
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,50:00C9A7,100:0077B5&height=4&width=1000" width="100%">
+</div>
 
 ## 📌 Featured Projects
 
@@ -150,18 +154,15 @@ Personal links landing page
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,50:00C9A7,100:0077B5&height=4&width=1000" width="100%">
+</div>
 
 ## 📊 GitHub Stats & Streaks
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shadowmask86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmask86&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmask86&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
@@ -171,7 +172,9 @@ Personal links landing page
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,50:00C9A7,100:0077B5&height=4&width=1000" width="100%">
+</div>
 
 ## 🎯 Currently Working Toward
 
@@ -200,4 +203,8 @@ Personal links landing page
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer"/>
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer&width=100%25"/>
+</div>
