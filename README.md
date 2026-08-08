@@ -1,82 +1,203 @@
-<h1 align="center">Hi, I'm Shreyash Bidwai 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) in Training | BCA Graduate | OCI GenAI Certified</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shreyashbidwai1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://shadowmask86.github.io/basic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Shreyash%20Bidwai&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)%20%7C%20BCA%20Graduate%20%7C%20OCI%20GenAI%20Certified&descAlignY=55&descSize=18"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+clean%2C+responsive+web+experiences;Learning+MERN+%7C+React+%7C+Node.js+%7C+MongoDB;OCI+GenAI+Certified+%7C+Prompt+Engineering+%2B+RAG;Open+to+Frontend+%2F+MERN+%2F+Fresher+roles+%F0%9F%9A%80" />
+
+<br/>
+
+<a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shreyashbidwai1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://shadowmask86.github.io/basic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/shadowmask86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 BCA (Computer Science) graduate, SRTMU Nanded — CGPA 7.83
+```yaml
+name: Shreyash Bidwai
+role: Full-Stack Developer (MERN) in Training
+education: "BCA (Computer Science), SRTMU Nanded — CGPA 7.83"
+internship: "CodeAlpha — Software Development"
+certification: "Oracle Cloud Infrastructure Generative AI (LLMs, RAG, Prompt Engineering)"
+currently_learning: ["Node.js", "React.js", "MongoDB", "JWT Auth", "Next.js", "TypeScript"]
+looking_for: "Frontend / MERN Stack / Web Developer internship or fresher role"
+location: "Pune, Maharashtra, India 📍"
+```
+
+- 🎓 BCA (Computer Science) graduate, SRTMU Nanded — **CGPA 7.83**
 - 💼 Completed a software development internship at **CodeAlpha**, shipping real deployed interfaces
-- 💻 Built and deployed **7 responsive web projects** on GitHub Pages using HTML5, CSS3, and Bootstrap 5
+- 💻 Built and deployed **7 responsive web projects** on GitHub Pages
 - ☁️ Certified in **Oracle Cloud Infrastructure Generative AI** (LLMs, RAG, Prompt Engineering)
-- 🌱 Currently learning: **Node.js, React.js**, moving into **MongoDB, JWT Auth, Next.js, TypeScript**
-- 🎯 Actively seeking Frontend / MERN Stack / Web Developer internship or fresher role
+- 🌱 Currently leveling up: **Node.js, React.js → MongoDB, JWT Auth, Next.js, TypeScript**
+- 🎯 Actively seeking **Frontend / MERN Stack / Web Developer** roles
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-**Languages & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
-**Frameworks & Libraries**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+<div align="center">
 
-**Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=js,html,css,java,mysql&theme=dark" />
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs,express&theme=dark" />
 
----
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /> &nbsp;
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-### 📌 Featured Projects
+### Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse&theme=dark" />
 
-| Project | Description | Tech | Live Demo |
-|---|---|---|---|
-| 🐾 [TinDog Website](https://github.com/shadowmask86/tindog-website) | Mobile-first Bootstrap product landing page clone | HTML5, CSS3, Bootstrap 5 | [Live](https://shadowmask86.github.io/tindog-website/) |
-| 🌐 [Personal Developer Portfolio](https://github.com/shadowmask86/basic-portfolio) | Responsive portfolio site with clean layout and fast load time | HTML5, CSS3, JS | [Live](https://shadowmask86.github.io/basic-portfolio/) |
-| 🍳 [Recipe Web Page](https://github.com/shadowmask86/Recipe-Web-Page) | Responsive recipe page with elegant typography and card design | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Recipe-Web-Page/) |
-| 📰 [Newsletter Subscription](https://github.com/shadowmask86/Newsletter-Subscription) | Responsive newsletter signup page | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Newsletter-Subscription/) |
-| ✍️ [Blog Post Card](https://github.com/shadowmask86/Blog-Post-Card) | Responsive blog post card component | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Blog-Post-Card/) |
-| 📜 [Poem Page](https://github.com/shadowmask86/Poem-Page) | Responsive poem page with elegant typography and reading-friendly layout | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Poem-Page/) |
-| 🔗 [Links Page](https://github.com/shadowmask86/Links-Page) | Personal links landing page | HTML5, CSS3 | [Live](https://shadowmask86.github.io/Links-Page/) |
+</div>
 
----
+<br/>
 
-### 🎯 Currently Working Toward
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐾 [TinDog Website](https://github.com/shadowmask86/tindog-website)
+Mobile-first Bootstrap product landing page clone
+<br/>
+`HTML5` `CSS3` `Bootstrap 5`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/tindog-website/)
+
+</td>
+<td width="50%">
+
+### 🌐 [Personal Developer Portfolio](https://github.com/shadowmask86/basic-portfolio)
+Responsive portfolio site with clean layout and fast load time
+<br/>
+`HTML5` `CSS3` `JavaScript`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/basic-portfolio/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍳 [Recipe Web Page](https://github.com/shadowmask86/Recipe-Web-Page)
+Responsive recipe page with elegant typography and card design
+<br/>
+`HTML5` `CSS3`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/Recipe-Web-Page/)
+
+</td>
+<td width="50%">
+
+### 📰 [Newsletter Subscription](https://github.com/shadowmask86/Newsletter-Subscription)
+Responsive newsletter signup page
+<br/>
+`HTML5` `CSS3`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/Newsletter-Subscription/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✍️ [Blog Post Card](https://github.com/shadowmask86/Blog-Post-Card)
+Responsive blog post card component
+<br/>
+`HTML5` `CSS3`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/Blog-Post-Card/)
+
+</td>
+<td width="50%">
+
+### 📜 [Poem Page](https://github.com/shadowmask86/Poem-Page)
+Responsive poem page with elegant typography and reading-friendly layout
+<br/>
+`HTML5` `CSS3`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/Poem-Page/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔗 [Links Page](https://github.com/shadowmask86/Links-Page)
+Personal links landing page
+<br/>
+`HTML5` `CSS3`
+<br/>
+🔗 [Live Demo](https://shadowmask86.github.io/Links-Page/)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 GitHub Stats & Streaks
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shadowmask86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowmask86&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowmask86&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowmask86&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🎯 Currently Working Toward
 
 - [ ] Deploying a full MERN stack app with authentication
 - [ ] Learning TypeScript for stronger React development
 - [ ] Contributing to open-source projects
 - [ ] Solving DSA problems consistently for interview prep
 
----
+<br/>
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shreyashbidwai1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://shadowmask86.github.io/basic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center"><i>Open to Frontend, MERN Stack, and Web Developer internship/fresher opportunities</i></p>
+<a href="https://linkedin.com/in/shreyashbidwai-21489b321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shreyashbidwai1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://shadowmask86.github.io/basic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>Open to Frontend, MERN Stack, and Web Developer internship/fresher opportunities</i>
+
+<br/>
+
+📍 Pune, Maharashtra, India
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer"/>
