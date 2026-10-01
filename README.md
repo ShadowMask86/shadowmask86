@@ -208,4 +208,3 @@ Personal links landing page
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer&width=100%25"/>
 </div>
-   
